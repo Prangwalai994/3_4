@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing_the_Return_Type_of_Method3_4", "Testing_the_Return_Type_of_Method3_4\Testing_the_Return_Type_of_Method3_4.csproj", "{ADE02D9E-52FE-41F1-9438-4D58D99621A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADE02D9E-52FE-41F1-9438-4D58D99621A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE02D9E-52FE-41F1-9438-4D58D99621A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE02D9E-52FE-41F1-9438-4D58D99621A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE02D9E-52FE-41F1-9438-4D58D99621A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB6DD9A9-6361-4EDE-A847-937C7E8F392F}
+	EndGlobalSection
+EndGlobal
